@@ -25,7 +25,7 @@ php composer update
 Далее, мигрируем базу:
 
 ```
-php yii migrate --migrationPath=vendor/dvizh/yii2-review/migrations
+php yii migrate --migrationPath=vendor/dvizh/yii2-review/src/migrations
 ```
 
 Подключение и настройка
