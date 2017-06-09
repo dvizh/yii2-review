@@ -7,13 +7,13 @@ Yii2-review
 Выполнить команду
 
 ```
-php composer require dvizh/yii2-review "*"
+php composer require dvizh/yii2-review "@dev"
 ```
 
 Или добавить в composer.json
 
 ```
-"dvizh/yii2-review": "*",
+"dvizh/yii2-review": "@dev",
 ```
 
 И выполнить
